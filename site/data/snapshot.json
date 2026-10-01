@@ -1,0 +1,1243 @@
+{
+  "generated_at": "2026-10-01T01:08:43.480097+00:00",
+  "schema_version": 1,
+  "description": "Curated SEC primary filing passages retrieved by Chat with EDGAR. A dated snapshot, not a live or exhaustive filing search.",
+  "companies": [
+    {
+      "cik": "0000320193",
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "filings": [
+        {
+          "cik": "0000320193",
+          "accession": "0000320193-25-000079",
+          "document": "aapl-20250927.htm",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "report_date": "2025-09-27",
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "title": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+          "citation": {
+            "id": "0000320193-0000320193-25-000079",
+            "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "company": "Apple Inc.",
+            "form": "10-K",
+            "filed": "2025-10-31"
+          },
+          "passages": [
+            {
+              "id": "0000320193-0000320193-25-000079-p108004",
+              "text": " 2024 Change 2023\nAmericas $ 178,353 7 % $ 167,045 3 % $ 162,560\nEurope 111,032 10 % 101,328 7 % 94,294\nGreater China 64,377 (4) % 66,952 (8) % 72,559\nJapan 28,703 15 % 25,052 3 % 24,257\nRest of Asia Pacific 33,696 10 % 30,658 4 % 29,615\nTotal net sales $ 416,161 6 % $ 391,035 2 % $ 383,285\nAmericas\nAmericas net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone and Services. The weakness in foreign currencies relative to the U.S. dollar had an unfavorable year-over-year impact on Americas net sales during 2025.\nEurope\nEurope net sales increased during 2025 compared to 2024 primarily due to higher net sales of Services, iPhone and Mac.\nGreater China\nGreater China net sales decreased during 2025 compared to 2024 primarily due to lower net sales of iPhone, partially offset by higher net sales of Mac.\nJapan\nJapan net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone, Services and iPad.\nRest of Asia Pacific\nRest of Asia Pacific net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone, Services and Mac.\nApple Inc. | 2025 Form 10-K | 22\nProducts and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 Change 2024 Change 2023\niPhone $ 209,586 4 % $ 201,183 \u2014 % $ 200,583\nMac 33,708 12 % 29,984 2 % 29,357\niPad 28,023 5 % 26,694 (6) % 28,300\nWearables, Home and Accessories 35,686 (4) % 37,005 (7) %",
+              "score": 54,
+              "start_char": 108004,
+              "end_char": 109494,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p108004",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p109316",
+              "text": " 2023\niPhone $ 209,586 4 % $ 201,183 \u2014 % $ 200,583\nMac 33,708 12 % 29,984 2 % 29,357\niPad 28,023 5 % 26,694 (6) % 28,300\nWearables, Home and Accessories 35,686 (4) % 37,005 (7) % 39,845\nServices (1)\n109,158 14 % 96,169 13 % 85,200\nTotal net sales $ 416,161 6 % $ 391,035 2 % $ 383,285\n(1)Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.\niPhone\niPhone net sales increased during 2025 compared to 2024 due to higher net sales of Pro models.\nMac\nMac net sales increased during 2025 compared to 2024 primarily due to higher net sales of laptops and desktops.\niPad\niPad net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPad Air, iPad mini and iPad, partially offset by lower net sales of iPad Pro.\nWearables, Home and Accessories\nWearables, Home and Accessories net sales decreased during 2025 compared to 2024 primarily due to lower net sales of Accessories and Wearables.\nServices\nServices net sales increased during 2025 compared to 2024 primarily due to higher net sales from advertising, the App Store and cloud services.\nApple Inc. | 2025 Form 10-K | 23\nGross Margin\nProducts and Services gross margin and gross margin percentage for 2025, 2024 and 2023 were as follows (dollars in millions):\n2025 2024 2023\nGross margin:\nProducts $ 112,887 $ 109,633 $ 108,803\nServices 82,314 71,050 60,345\nTotal gross margin $ 195,201 $ 180,683 $ 169,148\nGross margin percentage:\nProducts 36.8 % 37.2 %",
+              "score": 56,
+              "start_char": 109316,
+              "end_char": 110814,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p109316",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p7906",
+              "text": "heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.\nUnless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company\u2019s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the \u201cCompany\u201d and \u201cApple\u201d as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.\nPART I\nItem 1. Business\nCompany Background\nThe Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.\nProducts\niPhone\niPhone\u00ae is the Company\u2019s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 17 Pro, iPhone Air\u2122, iPhone 17, iPhone 16 and iPhone 16e.\nMac\nMac\u00ae is the Company\u2019s line of personal computers based on its macOS\u00ae operating system. The Mac line includes laptops MacBook Air\u00ae and MacBook Pro\u00ae, as well as desktops iMac\u00ae, Mac mini\u00ae, Mac Studio\u00ae and Mac Pro\u00ae.\niPad\niPad\u00ae is the Company\u2019s line of multipurpose tablets based on its iPadOS\u00ae operating system. The iPad line includes iPad Pro\u00ae, iPad Air\u00ae, iPad and iPad mini\u00ae.\nWearables, Home and",
+              "score": 53,
+              "start_char": 7906,
+              "end_char": 9384,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p7906",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p140928",
+              "text": " accounts for all third-party application\u2013related sales on a net basis by recognizing in Services net sales only the commission it retains.\nApple Inc. | 2025 Form 10-K | 35\nThe following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024 and 2023 (in millions):\n2025 2024 2023\niPhone\n$ 209,586 $ 201,183 $ 200,583\nMac\n33,708 29,984 29,357\niPad\n28,023 26,694 28,300\nWearables, Home and Accessories\n35,686 37,005 39,845\nServices (1)\n109,158 96,169 85,200\nTotal net sales $ 416,161 $ 391,035 $ 383,285\nPortion of total net sales that was included in deferred revenue as of the beginning of the period $ 8,229 $ 7,728 $ 8,169\n(1)Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.\nThe Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 13, \u201cSegment Information and Geographic Data\u201d for 2025, 2024 and 2023, except in Greater China, where iPhone revenue represented a moderately higher proportion of net sales.\nAs of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion, respectively. As of September 27, 2025, the Company expects 66% of total deferred revenue to be realized in less than a year, 23% within one-to-two years, 9% within two-to-three years and 2% in greater than three years.\nNote 3 \u2013 Earnings Per",
+              "score": 48,
+              "start_char": 140928,
+              "end_char": 142418,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p140928",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p106681",
+              "text": ", among other things, imports of semiconductors, semiconductor manufacturing equipment, and their derivative products, including downstream products that contain semiconductors. Tariffs and other measures that are applied to the Company\u2019s products or their components can have a material adverse impact on the Company\u2019s business, results of operations and financial condition, including impacting the Company\u2019s supply chain, the availability of rare earths and other raw materials and components, pricing and gross margin. The ultimate impact remains uncertain and will depend on several factors, including whether additional or incremental U.S. Tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures. Trade and other international disputes can have an adverse impact on the overall macroeconomic environment and result in shifts and reductions in consumer spending and negative consumer sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.\nSegment Operating Performance\nThe following table shows net sales by reportable segment for 2025, 2024 and 2023 (dollars in millions):\n2025 Change 2024 Change 2023\nAmericas $ 178,353 7 % $ 167,045 3 % $ 162,560\nEurope 111,032 10 % 101,328 7 % 94,294\nGreater China 64,377 (4) % 66,952 (8) % 72,559\nJapan 28,703 15 % 25,052",
+              "score": 35,
+              "start_char": 106681,
+              "end_char": 108179,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p106681",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p31585",
+              "text": " depend on several factors, including whether additional or incremental U.S. Tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures. If disputes and conflicts further escalate, actions by governments in response could be significantly more severe and restrictive.\nMany of the Company\u2019s operations, retail stores and facilities, as well as critical business operations of the Company\u2019s suppliers and contract manufacturers, are in locations that are prone to earthquakes and other natural disasters. Global climate change is resulting in certain types of natural disasters and extreme weather occurring more frequently or with more intense effects. In addition, the Company\u2019s and its suppliers\u2019 operations, retail stores and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues and other events beyond the Company\u2019s control.\nSuch events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company\u2019s supply and manufacturing chain, result in slowdowns and outages to the Company\u2019s service offerings, increase the Company\u2019s costs, and negatively impact",
+              "score": 34,
+              "start_char": 31585,
+              "end_char": 33083,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p31585",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p27625",
+              "text": "operations, financial condition and stock price.\nApple Inc. | 2025 Form 10-K | 5\nThe Company\u2019s business can be impacted by political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions.\nPolitical events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can have a material adverse effect on the Company and its customers, employees, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.\nThe Company has a large, global business with sales outside the U.S. representing a majority of the Company\u2019s total net sales, and the Company believes that it generally benefits from growth in international trade. A significant majority of the Company\u2019s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam, in addition to sourcing from partners and facilities located in the U.S. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company\u2019s business and supply chain. The impact can be particularly significant if these restrictive measures apply to countries and",
+              "score": 33,
+              "start_char": 27625,
+              "end_char": 29122,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p27625",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p82967",
+              "text": " are subject to volatility and downward pressure due to a variety of factors.\nThe Company\u2019s gross margins vary significantly across its products, services, geographic segments and distribution channels and can change over time. The Company\u2019s net sales and gross margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global product pricing pressures and product pricing actions that the Company may take in response to such pressures; increased competition; the Company\u2019s ability to effectively stimulate demand for certain of its products and services; compressed product life cycles; supply shortages; potential increases in the cost of components, outside manufacturing services, and developing, acquiring and delivering content for the Company\u2019s services; the Company\u2019s ability to manage product quality and warranty costs effectively; shifts in the mix of products and services, or in the geographic, currency or channel mix, including to the extent that regulatory changes require the Company to modify its product and service offerings; fluctuations in foreign exchange rates; inflation and other macroeconomic pressures; the imposition of new or increased tariffs and other trade restrictions, their overall magnitude and duration, and retaliatory actions in response; and the introduction of new products or services, including new products or services with lower profit margins. These and other factors could have a",
+              "score": 33,
+              "start_char": 82967,
+              "end_char": 84457,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p82967",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p19740",
+              "text": "protecting the Company\u2019s products and services. The Company believes the duration of its intellectual property rights is adequate relative to the expected lives of its products and services.\nApple Inc. | 2025 Form 10-K | 3\nIn addition to Company-owned intellectual property, many of the Company\u2019s products and services include technology or intellectual property that must be licensed from third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company\u2019s products, processes and services. While the Company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.\nBusiness Seasonality and Product Introductions\nThe Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company\u2019s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.\nHuman",
+              "score": 56,
+              "start_char": 19740,
+              "end_char": 21233,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p19740",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p136976",
+              "text": "its customers. Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers. For most of the Company\u2019s Products net sales, control transfers when products are shipped. For the Company\u2019s Services net sales, control transfers over time as services are delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.\nThe Company records reductions to Products net sales related to future product returns, price protection and other customer incentive programs based on the Company\u2019s expectations and historical experience.\nFor arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (\u201cSSPs\u201d). When available, the Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are established that reflect the Company\u2019s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis. The Company\u2019s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each",
+              "score": 56,
+              "start_char": 136976,
+              "end_char": 138467,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p136976",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-25-000079-p11841",
+              "text": " India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia, New Zealand and those Asian countries not included in the Company\u2019s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company\u2019s customers and distribution partners and the unique market dynamics of each geographic region.\nMarkets and Distribution\nThe Company\u2019s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets. The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force. The Company sells its services in the same markets through its various service platforms. The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers and other resellers, for the sale of its products and certain of its services. During 2025, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales.\nCompetition\nThe markets for the Company\u2019s products and services are highly competitive and are characterized by aggressive price competition, downward pressure on gross margins, continual improvement in product",
+              "score": 53,
+              "start_char": 11841,
+              "end_char": 13335,
+              "citation": {
+                "id": "0000320193-0000320193-25-000079-p11841",
+                "label": "Apple Inc. \u00b7 10-K \u00b7 2025-10-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+                "company": "Apple Inc.",
+                "form": "10-K",
+                "filed": "2025-10-31"
+              }
+            }
+          ]
+        },
+        {
+          "cik": "0000320193",
+          "accession": "0000320193-26-000020",
+          "document": "aapl-20260627.htm",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "report_date": "2026-06-27",
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+          "title": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+          "citation": {
+            "id": "0000320193-0000320193-26-000020",
+            "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+            "company": "Apple Inc.",
+            "form": "10-Q",
+            "filed": "2026-07-31"
+          },
+          "passages": [
+            {
+              "id": "0000320193-0000320193-26-000020-p39535",
+              "text": " June 28,\n2025 Change June 27,\n2026 June 28,\n2025 Change\niPhone $ 54,252 $ 44,582 22% $ 196,515 $ 160,561 22%\nMac 10,352 8,046 29% 27,137 24,982 9%\niPad 6,191 6,581 (6) % 21,700 21,071 3%\nWearables, Home and Accessories 7,883 7,404 6% 27,277 26,673 2%\nServices 30,739 27,423 12% 91,728 80,408 14%\nTotal net sales $ 109,417 $ 94,036 16% $ 364,357 $ 313,695 16%\niPhone\niPhone net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of Pro models.\nMac\nMac net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 due to higher net sales of laptops.\niPad\niPad net sales decreased during the third quarter of 2026 compared to the third quarter of 2025 primarily due to lower net sales of iPad mini\u00ae and iPad Air\u00ae. Year-over-year iPad net sales increased during the first nine months of 2026 primarily due to higher net sales of iPad, partially offset by lower net sales of iPad mini.\nWearables, Home and Accessories\nWearables, Home and Accessories net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 due to higher net sales of Accessories and Wearables.\nServices\nServices net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales from advertising and cloud services.\nApple Inc. | Q3 2026 Form 10-Q | 15\nGross",
+              "score": 54,
+              "start_char": 39535,
+              "end_char": 41031,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p39535",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p38215",
+              "text": " net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of iPhone. The strength in the renminbi relative to the U.S. dollar had a favorable year-over-year impact on Greater China net sales during the third quarter and first nine months of 2026.\nApple Inc. | Q3 2026 Form 10-Q | 14\nJapan\nJapan net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 due to higher net sales of iPhone. The weakness in the yen relative to the U.S. dollar had an unfavorable year-over-year impact on Japan net sales during the third quarter and first nine months of 2026.\nRest of Asia Pacific\nRest of Asia Pacific net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of iPhone, Services and Mac. The strength in foreign currencies relative to the U.S. dollar had a net favorable year-over-year impact on Rest of Asia Pacific net sales during the third quarter of 2026.\nProducts and Services Performance\nThe following table shows net sales by category for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (dollars in millions):\nThree Months Ended Nine Months Ended\nJune 27,\n2026 June 28,\n2025 Change June 27,\n2026 June 28,\n2025 Change\niPhone $ 54,252 $ 44,582 22% $ 196,515 $ 160,561 22%\nMac 10,352 8,046 29% 27,137 24,982 9%\niPad 6,191 6,581 (6) % 21,700",
+              "score": 51,
+              "start_char": 38215,
+              "end_char": 39712,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p38215",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p13157",
+              "text": "was previously deferred, for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (in millions):\nThree Months Ended Nine Months Ended\nJune 27,\n2026 June 28,\n2025 June 27,\n2026 June 28,\n2025\niPhone\u00ae\n$ 54,252 $ 44,582 $ 196,515 $ 160,561\nMac\u00ae\n10,352 8,046 27,137 24,982\niPad\u00ae\n6,191 6,581 21,700 21,071\nWearables, Home and Accessories 7,883 7,404 27,277 26,673\nServices 30,739 27,423 91,728 80,408\nTotal net sales $ 109,417 $ 94,036 $ 364,357 $ 313,695\nPortion of total net sales that was included in deferred revenue as of the beginning of the period\n$ 4,086 $ 4,015 $ 7,260 $ 6,958\nThe Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 10, \u201cSegment Information\u201d for the three- and nine-month periods ended June 27, 2026 and June 28, 2025, except in Greater China, where iPhone revenue represented a moderately higher proportion of net sales.\nAs of June 27, 2026 and September 27, 2025, the Company had total deferred revenue of $14.9 billion and $13.7 billion, respectively. As of June 27, 2026, the Company expects 64% of total deferred revenue to be realized in less than a year, 23% within one-to-two years, 11% within two-to-three years and 2% in greater than three years.\nApple Inc. | Q3 2026 Form 10-Q | 6\nNote 3 \u2013 Earnings Per Share\nThe following table shows the computation of basic and diluted earnings per share for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (net",
+              "score": 45,
+              "start_char": 13157,
+              "end_char": 14654,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p13157",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p36899",
+              "text": " sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.\nSegment Operating Performance\nThe following table shows net sales by reportable segment for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (dollars in millions):\nThree Months Ended Nine Months Ended\nJune 27,\n2026 June 28,\n2025 Change June 27,\n2026 June 28,\n2025 Change\nAmericas $ 45,781 $ 41,198 11% $ 149,403 $ 134,161 11%\nEurope 29,395 24,014 22% 95,596 82,329 16%\nGreater China 18,816 15,369 22% 64,839 49,884 30%\nJapan 6,554 5,782 13% 24,368 22,067 10%\nRest of Asia Pacific 8,871 7,673 16% 30,151 25,254 19%\nTotal net sales $ 109,417 $ 94,036 16% $ 364,357 $ 313,695 16%\nAmericas\nAmericas net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of iPhone, Services and Mac.\nEurope\nEurope net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of iPhone, Services and Mac. The strength in foreign currencies relative to the U.S. dollar had a net favorable year-over-year impact on Europe net sales during the first nine months of 2026.\nGreater China\nGreater China net sales increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales of iPhone. The strength in the",
+              "score": 52,
+              "start_char": 36899,
+              "end_char": 38392,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p36899",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p35582",
+              "text": ", and has recognized any refunds received as a reduction of products cost of sales. Various modifications to U.S. tariffs have been announced, including the recent imposition of tariffs under Section 301 of the Trade Act of 1974, and further changes could be made in the future, which may include additional measures under the Section 232 semiconductor sector investigation, additional sector-based tariffs, further actions under Section 301, or other measures. Tariffs and other measures that are applied to the Company\u2019s products or their components can have a material adverse impact on the Company\u2019s business, results of operations and financial condition, including impacting the Company\u2019s supply chain, the availability of rare earths and other raw materials and components, pricing and gross margin. The ultimate impact remains uncertain and will depend on several factors, including whether additional or incremental U.S. tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures. Trade and other international disputes can have an adverse impact on the overall macroeconomic environment and result in shifts and reductions in consumer spending and negative consumer sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.\nSegment Operating Performance\nThe",
+              "score": 36,
+              "start_char": 35582,
+              "end_char": 37076,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p35582",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p32946",
+              "text": ", and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.\nDuring the third quarter of 2026, the Company announced iOS 27, macOS\u00ae 27 Golden Gate, iPadOS\u00ae 27, watchOS\u00ae 27, visionOS\u00ae 27 and tvOS\u00ae 27, and introduced Siri AI.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates, component pricing and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company\u2019s results of operations and financial condition.\nThe Company is experiencing a period of supply constraints and increasing costs for components driven by factors such as industry supply-demand imbalances for components, including advanced semiconductors, storage (NAND) and memory (DRAM). The Company expects these trends to intensify, which may materially negatively impact the Company\u2019s revenue, costs, gross margin, results of operations and financial condition. Actions, such as price increases, that have been and may in the future be taken by the Company may not effectively mitigate these negative impacts, and may also reduce demand for the Company\u2019s products and materially adversely affect the Company\u2019s revenue, costs, gross margin, results of operations and financial condition.\nApple Inc. | Q3 2026 Form 10-Q | 13\nTariffs and Other Measures\nBeginning in the second quarter of 2025, new tariffs",
+              "score": 24,
+              "start_char": 32946,
+              "end_char": 34444,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p32946",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p34266",
+              "text": ", gross margin, results of operations and financial condition.\nApple Inc. | Q3 2026 Form 10-Q | 13\nTariffs and Other Measures\nBeginning in the second quarter of 2025, new tariffs were announced on imports to the U.S., including additional tariffs on imports from China, India, Japan, South Korea, Taiwan, Vietnam and the European Union (\u201cEU\u201d), among others. In response, several countries have imposed, or threatened to impose, reciprocal tariffs on imports from the U.S. and other retaliatory measures. On January 14, 2026, initial results were published of the previously announced U.S. Department of Commerce investigation under Section 232 of the Trade Expansion Act of 1962, as amended, into imports of semiconductors, semiconductor manufacturing equipment, and their derivative products, including downstream products that contain semiconductors. The announcement of the initial results of the investigation did not impose any additional tariffs affecting the Company\u2019s products. Separately, on February 20, 2026, the U.S. Supreme Court (\u201cSupreme Court\u201d) issued a ruling striking down certain tariffs previously imposed under the International Emergency Economic Powers Act of 1977. The Company has applied for a refund of tariffs paid, following the processes established by U.S. Customs and Border Protection, and has recognized any refunds received as a reduction of products cost of sales. Various modifications to U.S. tariffs have been announced, including the recent imposition of",
+              "score": 14,
+              "start_char": 34266,
+              "end_char": 35759,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p34266",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p59314",
+              "text": " since the 2025 Form 10-K.\nFuture operating results depend upon the Company\u2019s ability to obtain components and computing resources in sufficient quantities and on commercially reasonable terms.\nThe Company currently obtains certain components from single or limited sources, which exposes it to significant supply and pricing risks. In addition, many components, including those that are available from multiple sources, are at times subject to industry-wide shortages and significant commodity pricing fluctuations that can materially adversely affect the Company\u2019s business, results of operations, financial condition and stock price. For example, the Company is experiencing a period of supply constraints and increasing costs for components driven by factors such as industry supply-demand imbalances for components, including advanced semiconductors, storage (NAND) and memory (DRAM), which adversely affects the Company\u2019s ability to obtain sufficient quantities of components and products on commercially reasonable terms, or at all. The Company expects these trends to intensify, which may materially adversely impact the Company\u2019s revenue, costs, gross margin, results of operations and financial condition. Actions, such as price increases, that have been and may in the future be taken by the Company may not effectively mitigate these negative impacts, and may also reduce demand for the Company\u2019s products and materially adversely affect the Company\u2019s revenue, costs, gross margin,",
+              "score": 13,
+              "start_char": 59314,
+              "end_char": 60807,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p59314",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p40851",
+              "text": " and first nine months of 2026 compared to the same periods in 2025 primarily due to higher net sales from advertising and cloud services.\nApple Inc. | Q3 2026 Form 10-Q | 15\nGross Margin\nProducts and Services gross margin and gross margin percentage for the three- and nine-month periods ended June 27, 2026 and June 28, 2025, were as follows (dollars in millions):\nThree Months Ended Nine Months Ended\nJune 27,\n2026 June 28,\n2025 June 27,\n2026 June 28,\n2025\nGross margin:\nProducts $ 31,525 $ 22,993 $ 108,819 $ 86,190\nServices 23,245 20,725 69,963 60,670\nTotal gross margin $ 54,770 $ 43,718 $ 178,782 $ 146,860\nGross margin percentage:\nProducts 40.1 % 34.5 % 39.9 % 36.9 %\nServices 75.6 % 75.6 % 76.3 % 75.5 %\nTotal gross margin percentage 50.1 % 46.5 % 49.1 % 46.8 %\nProducts Gross Margin\nProducts gross margin and gross margin percentage increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to a different mix of products and tariff refunds, partially offset by higher costs, including memory.\nServices Gross Margin\nServices gross margin increased during the third quarter and first nine months of 2026 compared to the same periods in 2025 primarily due to higher Services net sales and a different mix of services, partially offset by higher costs.\nServices gross margin percentage was flat during the third quarter of 2026 compared to the third quarter of 2025. Year-over-year Services gross margin percentage increased during",
+              "score": 52,
+              "start_char": 40851,
+              "end_char": 42347,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p40851",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000020-p2635",
+              "text": " to Section 13(a) of the Exchange Act. \u2610\nIndicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).\nYes \u2610 No \u2612\n14,594,180,000 shares of common stock were issued and outstanding as of July 17, 2026.\nApple Inc.\nForm 10-Q\nFor the Fiscal Quarter Ended June 27, 2026\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nFinancial Statements\n1\nItem 2.\nManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\n13\nItem 3.\nQuantitative and Qualitative Disclosures About Market Risk\n19\nItem 4.\nControls and Procedures\n19\nPart II\nItem 1.\nLegal Proceedings\n20\nItem 1A.\nRisk Factors\n21\nItem 2.\nUnregistered Sales of Equity Securities and Use of Proceeds\n24\nItem 3.\nDefaults Upon Senior Securities\n24\nItem 4.\nMine Safety Disclosures\n24\nItem 5.\nOther Information\n25\nItem 6.\nExhibits\n25\nPART I \u2014 FINANCIAL INFORMATION\nItem 1. Financial Statements\nApple Inc.\nCONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nThree Months Ended Nine Months Ended\nJune 27,\n2026 June 28,\n2025 June 27,\n2026 June 28,\n2025\nNet sales:\nProducts $ 78,678 $ 66,613 $ 272,629 $ 233,287\nServices 30,739 27,423 91,728 80,408\nTotal net sales 109,417 94,036 364,357 313,695\nCost of sales:\nProducts 47,153 43,620 163,810 147,097\nServices 7,494 6,698 21,765 19,738\nTotal cost of sales 54,647 50,318 185,575 166,835\nGross margin 54,770 43,718 178,782 146,860\nOperating",
+              "score": 50,
+              "start_char": 2635,
+              "end_char": 4127,
+              "citation": {
+                "id": "0000320193-0000320193-26-000020-p2635",
+                "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+                "company": "Apple Inc.",
+                "form": "10-Q",
+                "filed": "2026-07-31"
+              }
+            }
+          ]
+        },
+        {
+          "cik": "0000320193",
+          "accession": "0000320193-26-000018",
+          "document": "aapl-20260730.htm",
+          "form": "8-K",
+          "filed": "2026-07-30",
+          "report_date": "2026-07-30",
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+          "title": "Apple Inc. \u00b7 8-K \u00b7 2026-07-30",
+          "citation": {
+            "id": "0000320193-0000320193-26-000018",
+            "label": "Apple Inc. \u00b7 8-K \u00b7 2026-07-30",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+            "company": "Apple Inc.",
+            "form": "8-K",
+            "filed": "2026-07-30"
+          },
+          "passages": [
+            {
+              "id": "0000320193-0000320193-26-000018-p1320",
+              "text": "\nTrading symbol(s) Name of each exchange on which registered\nCommon Stock, $0.00001 par value per share AAPL The Nasdaq Stock Market LLC\n1.625% Notes due 2026 \u2014 The Nasdaq Stock Market LLC\n2.000% Notes due 2027 \u2014 The Nasdaq Stock Market LLC\n1.375% Notes due 2029 \u2014 The Nasdaq Stock Market LLC\n3.050% Notes due 2029 \u2014 The Nasdaq Stock Market LLC\n0.500% Notes due 2031 \u2014 The Nasdaq Stock Market LLC\n3.600% Notes due 2042 \u2014 The Nasdaq Stock Market LLC\nIndicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).\nEmerging growth company \u2610\nIf an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610\nItem 2.02 Results of Operations and Financial Condition.\nOn July 30, 2026, Apple Inc. (\u201cApple\u201d) issued a press release regarding Apple\u2019s financial results for its third fiscal quarter ended June 27, 2026. A copy of Apple\u2019s press release is attached hereto as Exhibit 99.1.\nThe information contained in this Current Report shall not be deemed \u201cfiled\u201d for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or incorporated by reference in any filing under the Securities Act of 1933, as",
+              "score": 36,
+              "start_char": 1320,
+              "end_char": 2816,
+              "citation": {
+                "id": "0000320193-0000320193-26-000018-p1320",
+                "label": "Apple Inc. \u00b7 8-K \u00b7 2026-07-30",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+                "company": "Apple Inc.",
+                "form": "8-K",
+                "filed": "2026-07-30"
+              }
+            },
+            {
+              "id": "0000320193-0000320193-26-000018-p2636",
+              "text": " for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.\nItem 9.01 Financial Statements and Exhibits.\n(d)Exhibits.\nExhibit\nNumber Exhibit Description\n99.1\nPress release issued by Apple Inc. on July 30, 2026.\n104 Inline XBRL for the cover page of this Current Report on Form 8-K.\nSIGNATURE\nPursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.\nDate: July 30, 2026 Apple Inc.\nBy: /s/ Kevan Parekh\nKevan Parekh\nSenior Vice President,\nChief Financial Officer",
+              "score": 12,
+              "start_char": 2636,
+              "end_char": 3453,
+              "citation": {
+                "id": "0000320193-0000320193-26-000018-p2636",
+                "label": "Apple Inc. \u00b7 8-K \u00b7 2026-07-30",
+                "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+                "company": "Apple Inc.",
+                "form": "8-K",
+                "filed": "2026-07-30"
+              }
+            }
+          ]
+        }
+      ],
+      "facts": {
+        "ok": true,
+        "kind": "company_facts",
+        "data": [
+          {
+            "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "value": 109417000000,
+            "start": "2026-03-29",
+            "end": "2026-06-27",
+            "filed": "2026-07-31",
+            "form": "10-Q",
+            "accession": "0000320193-26-000020",
+            "fiscal_year": 2026,
+            "fiscal_period": "Q3",
+            "frame": "CY2026Q2",
+            "citation": {
+              "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2026-06-27-USD",
+              "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+              "company": "Apple Inc.",
+              "form": "10-Q",
+              "filed": "2026-07-31",
+              "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+            }
+          },
+          {
+            "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "value": 364357000000,
+            "start": "2025-09-28",
+            "end": "2026-06-27",
+            "filed": "2026-07-31",
+            "form": "10-Q",
+            "accession": "0000320193-26-000020",
+            "fiscal_year": 2026,
+            "fiscal_period": "Q3",
+            "frame": null,
+            "citation": {
+              "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2026-06-27-USD",
+              "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+              "company": "Apple Inc.",
+              "form": "10-Q",
+              "filed": "2026-07-31",
+              "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+            }
+          },
+          {
+            "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "value": 94036000000,
+            "start": "2025-03-30",
+            "end": "2025-06-28",
+            "filed": "2026-07-31",
+            "form": "10-Q",
+            "accession": "0000320193-26-000020",
+            "fiscal_year": 2026,
+            "fiscal_period": "Q3",
+            "frame": "CY2025Q2",
+            "citation": {
+              "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2025-06-28-USD",
+              "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+              "company": "Apple Inc.",
+              "form": "10-Q",
+              "filed": "2026-07-31",
+              "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+            }
+          },
+          {
+            "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "value": 313695000000,
+            "start": "2024-09-29",
+            "end": "2025-06-28",
+            "filed": "2026-07-31",
+            "form": "10-Q",
+            "accession": "0000320193-26-000020",
+            "fiscal_year": 2026,
+            "fiscal_period": "Q3",
+            "frame": null,
+            "citation": {
+              "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2025-06-28-USD",
+              "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+              "company": "Apple Inc.",
+              "form": "10-Q",
+              "filed": "2026-07-31",
+              "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+            }
+          }
+        ],
+        "provenance": [
+          {
+            "source": "SEC EDGAR",
+            "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json",
+            "retrieved_at": "2026-10-01T01:08:52.112206+00:00",
+            "sha256": "4495f7a16b4ade43dfa8041ac6477074122cbd5b88033e3e0f68b3f919e7ffbf",
+            "cache_hit": false
+          }
+        ],
+        "citations": [
+          {
+            "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2026-06-27-USD",
+            "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+            "company": "Apple Inc.",
+            "form": "10-Q",
+            "filed": "2026-07-31",
+            "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+          },
+          {
+            "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2026-06-27-USD",
+            "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+            "company": "Apple Inc.",
+            "form": "10-Q",
+            "filed": "2026-07-31",
+            "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+          },
+          {
+            "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2025-06-28-USD",
+            "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+            "company": "Apple Inc.",
+            "form": "10-Q",
+            "filed": "2026-07-31",
+            "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+          },
+          {
+            "id": "0000320193-0000320193-26-000020-RevenueFromContractWithCustomerExcludingAssessedTax-2025-06-28-USD",
+            "label": "Apple Inc. \u00b7 10-Q \u00b7 2026-07-31 \u00b7 RevenueFromContractWithCustomerExcludingAssessedTax",
+            "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.html",
+            "company": "Apple Inc.",
+            "form": "10-Q",
+            "filed": "2026-07-31",
+            "data_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+          }
+        ],
+        "label": "Revenue from Contract with Customer, Excluding Assessed Tax",
+        "description": "Amount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.",
+        "evidence_type": "SEC-extracted XBRL facts, not narrative filing passages",
+        "warning": "Different durations and amended/repeated facts are separate records. Check start/end, unit, and accession before comparison."
+      }
+    },
+    {
+      "cik": "0001579878",
+      "name": "Figma, Inc.",
+      "ticker": "FIG",
+      "filings": [
+        {
+          "cik": "0001579878",
+          "accession": "0001628280-25-033742",
+          "document": "figma-sx1.htm",
+          "form": "S-1",
+          "filed": "2025-07-01",
+          "report_date": "",
+          "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+          "title": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+          "citation": {
+            "id": "0001579878-0001628280-25-033742",
+            "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+            "company": "Figma, Inc.",
+            "form": "S-1",
+            "filed": "2025-07-01"
+          },
+          "passages": [
+            {
+              "id": "0001579878-0001628280-25-033742-p518766",
+              "text": " errors between designers and developers by sharing\nthe same building blocks and language across design and code.\nMore often than not, though, a static visualization of an idea isn\u2019t enough to validate a direction. That\u2019s\nwhy users take advantage of Figma\u2019s rich prototyping capabilities, which let users string together different\nscreens into a dynamic, interactive flow. These prototypes are often circulated within an organization to\nsocialize an idea or put in front of customers in user testing to validate a particular concept in a more\nrealistic way.\n159\nTable of Contents\nBuild with Dev Mode\nOnce the designs are ready, it\u2019s time to translate them into code. Dev Mode is our dedicated space for\ndevelopers where this translation occurs, built to streamline the back and forth between design and\nengineering and reduce the miscommunication that often happens during this step.\nIn Dev Mode, developers can inspect the designs to see key details most relevant to them, like special\nannotations left by designers, documentation about the components used, or what\u2019s changed since they\nlast saw the design.\nImportantly, developers can choose to view these designs in the format they understand most: code. Dev\nMode generates platform-specific, ready-to-use code from the designs that developers can directly copy;\nteams can also connect their design systems to their codebase via Code Connect which helps ensure the\ncode snippets developers see are correct, familiar, and",
+              "score": 53,
+              "start_char": 518766,
+              "end_char": 520239,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p518766",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p396443",
+              "text": " us, they also represent the challenges that we must\nsuccessfully address to continue to drive growth and drive operating leverage.\nMaintaining Our Rapid and Proven Pace of Product Innovation\nSince launching our core product Figma Design in 2015, we have expanded our platform to serve more\nparts of the product development process with FigJam, Dev Mode, Figma Slides, Figma Buzz, Figma\nMake, Figma Sites, and Figma Draw. In 2024, we introduced a revamped user interface focused on\nimproving the design experience and providing a consistent foundation for new and existing products.\nWe\u2019ve also introduced AI capabilities across our products and platform, including Figma Make and other\nFigma AI features. And we continue to bring design and coding closer together with our Dev Mode MCP\nserver. With the expansion of these products and capabilities, our platform is quickly becoming the\nsystem of record for design and product development. Our rapid pace of innovation has been a core\ndriver of our growth, both winning new customers and expanding adoption within our existing customers\nas we meet their evolving needs. We will continue investing significantly in our platform and team so that\nwe can continue to deliver new products and capabilities to customers.\n(5) We define monthly active users as the number of unique users that access at least one of our products during a given month. A\nPaid Customer typically includes multiple unique users. When reporting monthly active users during a",
+              "score": 52,
+              "start_char": 396443,
+              "end_char": 397937,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p396443",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p35561",
+              "text": " about the components used, or what\u2019s changed since they\nlast saw the design.\nImportantly, developers can choose to view these designs in the format they understand most: code. Dev\nMode generates platform-specific, ready-to-use code from the designs that developers can directly copy;\nteams can also connect their design systems to their codebase via Code Connect which helps ensure the\ncode snippets developers see are correct, familiar, and production-ready.\nRecently, we\u2019ve also added our own Model Context Protocol (\u201cMCP\u201d) server to Dev Mode, which allows\ndevelopers to connect an agent in their code editor directly to designs in Figma. Developers can ask the\nagent to inspect the design and use this context to convert it into working code in their codebase.\nA traditional design-to-development handoff process often involves a spec or document that can quickly\nget outdated as teams continue to iterate on designs. One of Dev Mode\u2019s key value propositions is\nallowing designers, developers, and even agents to work in the very same file while giving each a\ndifferent view of the work tailored to their respective needs. This helps maintain a single source of truth\nthat literally keeps everyone on the same page.\n12\nTable of Contents\nShip with Figma Sites, promote in Figma Buzz\nThe last step of any product development process is shipping the code that\u2019s been written to production,\nto get your product launched. Figma Sites represents our first offering that ships a design directly",
+              "score": 51,
+              "start_char": 35561,
+              "end_char": 37052,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p35561",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p538516",
+              "text": " to Figma from within their existing workflows. These partnerships\ngenerate awareness and cultivate lasting engagement. Certified service partners around the globe also\nprovide training, enablement, and specific project support for customers. Additionally, Apple, Google\nMaterial Design and other organizations make their design resources available natively through Figma\u2019s\nuser interfaces to facilitate users designing and developing for their respective platforms.\nFrom the beginning, Figma\u2019s Professional plan has been free for educators and students through our\nFigma for Education program. This includes higher education institutions, bootcamps, and workshops. We\nalso make Figma\u2019s Organization plan available for free for K-12 students and educators to help develop\nthe next generation of product builders.\n178\nTable of Contents\nGrowth Strategy\nWe have focused on building a company for the long-term since day one. We will keep investing in our\nplatform across our key growth levers.\n\u2022Maintaining our rapid and proven pace of product innovation: Since launching our core\nproduct Figma Design in 2015, we have expanded our platform to serve more parts of the product\ndevelopment process with FigJam, Figma Slides, Figma Draw, Figma Make, Dev Mode, Figma\nSites, and Figma Buzz. We\u2019ve also integrated AI functionality extensively across our platform\u2014\nfrom standalone products like Figma Make to native AI features that automate rote, repetitive\ntasks in FigJam and Figma Design, to our Dev Mode",
+              "score": 51,
+              "start_char": 538516,
+              "end_char": 540014,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p538516",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p193518",
+              "text": "third-\nparty AI tools to assist them with responding to and resolving customer inquiries. To the extent that we\nare unsuccessful in hiring, training, and retaining adequate support resources or utilizing AI tools for\ncustomer support, our ability to provide high-quality and timely support to our customers will be negatively\nimpacted, and our customers\u2019 satisfaction and their usage of our infrastructure could be adversely\naffected.\nBecause we recognize subscription revenue over the subscription term, downturns or upturns in\nnew sales and renewals are not immediately reflected in full in our operating results.\nWe recognize revenue from subscriptions to our platform on a straight-line basis over the term of the\ncontract subscription period beginning on the date access to our platform is granted, provided all other\nrevenue recognition criteria have been met. Our subscription arrangements generally have monthly or\nannual contractual terms. As a result, much of the revenue we report each quarter is the recognition of\ndeferred revenue from recurring subscriptions. Consequently, a decline in subscriptions in any one\nquarter, whether as a result of fewer or smaller new subscriptions, downsized subscription renewals, or\nlower subscription renewal rates in the applicable quarter, will not be fully reflected in revenue in that\nquarter, and will continue to negatively affect our revenue in future quarters. Accordingly, the effect of\nsignificant downturns in new or renewed sales of our",
+              "score": 40,
+              "start_char": 193518,
+              "end_char": 195014,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p193518",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p900298",
+              "text": "contracts with customers by applying the requirements\nof Accounting Standards Codification (\u201cASC\u201d) 606, Revenue from Contracts with Customers.\nThe Company\u2019s subscription agreements generally have monthly or annual contractual terms. The\nCompany typically bills in advance for contracts and payment terms and conditions vary by contract type,\nalthough terms generally include a requirement of payment within 30 to 60 days of the invoice date.\nAccess to the platform represents a series of distinct services as the Company continually provides\naccess to and fulfills its obligation to the customer over the subscription term. The series of distinct\nservices represent a single performance obligation that is satisfied over time. The Company recognizes\nrevenue ratably over the contract term because the customer receives and consumes the benefits of the\nplatform throughout the contract period. Deferred revenue consists of customer billings in advance of\nrevenue being recognized from the Company\u2019s contracts. The price of subscriptions is dependent on the\nnumber of users and the subscription plan those users have. The Company\u2019s contracts typically do not\ncontain variable consideration given the price is fixed at contract inception.\nF-12\nFigma, Inc.\nNotes To The Consolidated Financial Statements\n(Amounts in tables are in thousands except per share data, percentages, or as otherwise noted)\nStock-based compensation\nThe Company measures compensation for stock options based on the estimated fair",
+              "score": 39,
+              "start_char": 900298,
+              "end_char": 901797,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p900298",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p898988",
+              "text": ".\nForeign currency transactions\nThe functional currency of each of the Company\u2019s foreign subsidiaries is the U.S. dollar. Monetary assets\nand liabilities denominated in a foreign currency are remeasured into U.S. dollars at the exchange rate on\nthe balance sheet date. Non-monetary assets and liabilities are remeasured at the historical rate.\nRevenue and expenses are remeasured at the average exchange rate for the period. Remeasurement\nadjustments are recognized in the accompanying consolidated statements of operations as transaction\ngains or losses in the year of occurrence as part of other income, net. Foreign currency transaction gains\nor losses were immaterial for all periods presented.\nFinancial information about segments and geographic areas\nThe Company manages its operations and allocated resources as a single operating segment. Further,\nthe Company manages, monitors, and reports its financial information as a single reportable segment.\nSee Note 15 \u201cSegment and Geographic Information\u201d for additional information.\nRevenue recognition\nThe Company derives its revenue from sales of subscriptions for access to its platform. The Company\u2019s\npolicy is to exclude sales and other indirect taxes when measuring the transaction price of its subscription\nagreements. The Company accounts for revenue contracts with customers by applying the requirements\nof Accounting Standards Codification (\u201cASC\u201d) 606, Revenue from Contracts with Customers.\nThe Company\u2019s subscription agreements",
+              "score": 38,
+              "start_char": 898988,
+              "end_char": 900478,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p898988",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p117097",
+              "text": ", lead to a loss of customers, and negatively impact our business, operating\nresults, and financial condition. Moreover, our ability to increase or maintain our prices may be\nconstrained by competitive dynamics, customer expectations or pressure to provide discounts, or\neconomic conditions. If we are unable to increase prices to offset rising costs, or if price increases\nsignificantly reduce customer demand, our business, operating results, and financial condition could be\nnegatively impacted.\nIf we are unable to attract new customers or retain and increase adoption of our products and\nservices by existing customers, we may not achieve the growth we expect, which would adversely\naffect our business, operating results, financial condition, and future prospects.\nIn order for us to improve our operating results and continue to grow our business, it is important that we\ncontinue to attract new customers and that existing customers continue to renew and increase their\nusage of our products, which we currently charge for on a per-user basis. Customers have no obligation\nto renew a subscription after the expiration of the contract term, and customers may not renew their\nsubscriptions with a similar contract period, with the same or greater number of seats, for the same\nsubscription plan, or at all. If our customers do not renew their subscriptions or if they renew on terms less\nfavorable to us, our revenue may decline.\nOur customer retention may decline or fluctuate as a result of",
+              "score": 37,
+              "start_char": 117097,
+              "end_char": 118595,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p117097",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p144759",
+              "text": " level and has passed at the state\nlevel. For example, California enacted seventeen new laws in 2024 that regulate use of AI technologies\nand provide consumers with additional protections around companies\u2019 use of AI technologies, such as\nrequiring companies to disclose certain uses of generative AI. Other states have also passed AI-focused\nlegislation, such as Colorado\u2019s Artificial Intelligence Act, which will require developers and deployers of\n\u201chigh-risk\u201d AI systems to implement certain safeguards against algorithmic discrimination, and Utah\u2019s\nArtificial Intelligence Policy Act, which establishes disclosure requirements and accountability measures\nfor the use of generative AI in certain consumer interactions. Such additional regulations may impact our\nability to develop, use, and commercialize AI technologies in the future.\nIn Europe, the EU Artificial Intelligence Act (the \u201cEU AI Act\u201d), which entered into force in August 2024,\nestablishes a comprehensive, risk-based governance framework for AI in the EU market. The majority of\nthe substantive requirements of the EU AI Act are not enforceable yet and will apply from August 2, 2026.\nThe EU AI Act will have a material impact on the way AI is regulated in the EU, as it applies to companies\n50\nTable of Contents\nthat develop, use, and/or provide AI in the EU and, depending on the AI use case, includes requirements\naround transparency, conformity assessments and monitoring, risk assessments, human oversight,\nsecurity, accuracy,",
+              "score": 39,
+              "start_char": 144759,
+              "end_char": 146257,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p144759",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p132897",
+              "text": " and political conditions, both domestically and in foreign markets where\nwe operate, including, but not limited to, changes in U.S. federal spending, changes in tariffs or\ntrade restrictions, global economic slowdowns, actual or perceived global banking and finance\nrelated issues, increased risk of inflation, potential uncertainty with respect to the federal debt\nceiling and budget and potential government shutdowns related thereto, interest rate volatility,\nsupply chain disruptions, labor shortages, and potential global recession;\n\u2022changes in user, customer, or market needs or preferences;\n47\nTable of Contents\n\u2022the effectiveness and cost-effectiveness of our customer service and support efforts;\n\u2022our product pricing strategies, including any pressure to change our product pricing strategies as\na result of competition;\n\u2022the timing and success of new offerings by us or our competitors or any other change in the\ncompetitive landscape of our industry, including, but not limited to, consolidation among our\ncompetitors or customers and strategic partnerships entered into by or between our competitors;\n\u2022changes in the mix of our overall business, including in subscription plans and products sold\u037e\n\u2022ease of use, performance, reliability, and comprehensiveness of our platform relative to\ncompetitive products and services;\n\u2022our reputation and brand strength relative to our competitors;\n\u2022our ability to maintain and grow our community of users and customers both domestically",
+              "score": 22,
+              "start_char": 132897,
+              "end_char": 134385,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p132897",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p146078",
+              "text": " the EU and, depending on the AI use case, includes requirements\naround transparency, conformity assessments and monitoring, risk assessments, human oversight,\nsecurity, accuracy, general purpose AI, and foundation models, and imposes fines for breaches of up to\n7% of worldwide annual revenues. The EU AI Act, together with developing guidance and/or decisions in\nthis area, may affect our use of AI technologies and our ability to provide, improve, or commercialize our\nservices, require additional compliance measures and changes to our operations and processes, result in\nincreased compliance costs and potential increases in civil claims against us, and could adversely affect\nour business, operating results, and financial condition. It is possible that further new laws and regulations\nwill be adopted in the United States and in other non-U.S. jurisdictions, or that existing laws and\nregulations, including competition and antitrust laws, may be interpreted in ways that would limit our ability\nto use AI technologies for our business, or require us to change the way we use AI technologies in a\nmanner that negatively affects the performance of our offerings and the way in which we use AI\ntechnologies. We may need to expend resources to adjust our products or services in certain jurisdictions\nif the laws, regulations, or decisions are not consistent across jurisdictions. Further, the cost to comply\nwith such laws, regulations, or decisions and/or guidance interpreting existing laws,",
+              "score": 22,
+              "start_char": 146078,
+              "end_char": 147577,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p146078",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-25-033742-p204049",
+              "text": "where we have a substantial presence and need for highly skilled\npersonnel, and we may not be successful in hiring or retaining qualified personnel to fulfill our current or\nfuture needs. More generally, the technology industry, and the software industry more specifically, is also\nsubject to substantial and continuous competition for engineers with high levels of experience in\ndesigning, developing, and managing software and related services. This is especially true in the market\nfor AI talent, which remains extremely competitive. We have, from time to time, experienced, and we\nexpect to continue to experience, difficulty in hiring and retaining highly skilled employees with\nappropriate qualifications at a suitable cost, and this risk may be exacerbated by factors related to,\namong other things, increased recruiting efforts by other companies. In the past, we have used stock-\nbased compensation to recruit and retain qualified employees. If we were to decrease the amount of\nstock-based compensation that is granted to employees, or otherwise make changes to our\ncompensation philosophy, we may have difficulty hiring and retaining qualified individuals. Even if we are\nable to recruit and retain qualified personnel, the cost of doing so may impact our profitability and our\nability to meet the expectations of investors and analysts. We also invest significant time and expense in\ntraining our employees, which increases their value to competitors who may seek to recruit them",
+              "score": 22,
+              "start_char": 204049,
+              "end_char": 205540,
+              "citation": {
+                "id": "0001579878-0001628280-25-033742-p204049",
+                "label": "Figma, Inc. \u00b7 S-1 \u00b7 2025-07-01",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+                "company": "Figma, Inc.",
+                "form": "S-1",
+                "filed": "2025-07-01"
+              }
+            }
+          ]
+        },
+        {
+          "cik": "0001579878",
+          "accession": "0001628280-26-009228",
+          "document": "fig-20251231.htm",
+          "form": "10-K",
+          "filed": "2026-02-18",
+          "report_date": "2025-12-31",
+          "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+          "title": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+          "citation": {
+            "id": "0001579878-0001628280-26-009228",
+            "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+            "company": "Figma, Inc.",
+            "form": "10-K",
+            "filed": "2026-02-18"
+          },
+          "passages": [
+            {
+              "id": "0001579878-0001628280-26-009228-p22359",
+              "text": " constraints and requirements of a production environment. Figma Design offers a rich set of \u201cdesign systems\u201d features in service of this: capabilities that allow teams to define flexible, reusable building blocks that make it easy for anyone to assemble a design without ever starting from scratch. We\u2019ve found that teams are motivated to invest deeply in design systems, as their primary benefit is creating efficiency and consistency at scale. Teams save time by no longer needing to constantly worry about pixel-level details, and design systems help remove translation errors between designers and developers by sharing the same building blocks and language across design and code.\n6\nTable of Contents\nDev Mode\nOnce the designs are ready, it\u2019s time to translate them into production-ready code. Dev Mode is our dedicated space for developers where this translation occurs, built to streamline the back and forth between design and engineering and reduce the miscommunication that often happens during this step.\nIn Dev Mode, developers can inspect the designs to see key details most relevant to them, like special annotations left by designers, documentation about the components used, or what\u2019s changed since they last saw the design.\nImportantly, developers can choose to view these designs in the format they understand most: code. Dev Mode generates platform-specific, ready-to-use code from the designs that developers can directly copy; teams can also connect their design systems to",
+              "score": 53,
+              "start_char": 22359,
+              "end_char": 23854,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p22359",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p23676",
+              "text": " understand most: code. Dev Mode generates platform-specific, ready-to-use code from the designs that developers can directly copy; teams can also connect their design systems to their codebase via Code Connect, which helps ensure the code snippets developers see are correct, familiar, and production-ready.\nIn 2025, we added our own Model Context Protocol (\u201cMCP\u201d) server to Dev Mode, which allows developers to connect an agent in their code editor directly to designs in Figma. Developers can ask the agent to inspect the design and use this context to convert it into working code in their codebase. A traditional design-to-development handoff process often involves a spec or document that can quickly get outdated as teams continue to iterate on designs. One of Dev Mode\u2019s key value propositions is allowing designers, developers, and even agents to work in the very same file while giving each a different view of the work tailored to their respective needs. MCP data can act as a source of truth and structured blueprint for each design component \u2014 including styles, tokens, and design intent \u2014 to avoid any risk of misalignment or manual misinterpretation when bringing design to production code.\nFigma Make\nAI is fundamentally transforming the product development process by making it possible for anyone to quickly visualize different concepts, turn an idea into a functional prototype, or in some cases, a working product. Figma Make is our product for this new paradigm.\nInstead of",
+              "score": 51,
+              "start_char": 23676,
+              "end_char": 25170,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p23676",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p40815",
+              "text": " our business is attributable to larger customers and deals due to the annual budget approval process of larger organizations.\nGrowth Strategy\nWe have focused on building a company for the long-term since day one. We will keep investing in our platform across our key growth levers.\n\u2022Maintaining our rapid and proven pace of product innovation: Since launching our core product Figma Design in 2015, we have expanded our platform to serve more parts of the product development process with FigJam, Figma Slides, Figma Draw, Figma Make, Dev Mode, Figma Sites, and Figma Buzz. We\u2019ve integrated AI functionality extensively across our platform\u2014from standalone products like Figma Make to native AI features that automate rote, repetitive tasks in FigJam and Figma Design, to our Dev Mode MCP server, which allows developers to bring context from Figma into agentic coding\n11\nTable of Contents\ntools\u2014resulting in a more efficient and accurate design-to-code workflow. We have added powerful features and functionality within existing products, and at the same time, have worked to improve the speed, reliability, and overall performance of our underlying infrastructure. We will continue investing significantly in our platform and team so that we can continue to deliver new products and capabilities to customers.\n\u2022Converting new and existing users into Paid Customers: Our range of plans offer options for all types of users, including a free Starter plan. We also have a free offering for students",
+              "score": 51,
+              "start_char": 40815,
+              "end_char": 42312,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p40815",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p35543",
+              "text": " Viewer seat allows users to view files and leave comments for free.\n\u2022The Collab seat gives access to FigJam and Figma Slides.\n\u2022The Content seat gives access to Figma Buzz, Figma Sites CMS, FigJam, and Figma Slides.2\n\u2022The Dev seat gives access to Dev Mode, in addition to Figma Buzz, Figma Sites CMS, FigJam, and Figma Slides.\n\u2022The Full seat gives access to all of Figma Design, Figma Draw, Figma Make, Dev Mode, Figma Buzz, Figma Sites, FigJam, and Figma Slides.3\nAI Credits\nIn 2025, we introduced AI credits across all Figma seats. Starting in March 2026, we intend to begin enforcing AI credit limits and start rolling out the ability for customers to purchase an additional AI credit subscription or opt into a pay-as-you-go AI credit plan based on their needs.\nOur Go-To-Market Motion\nThe combination of Figma\u2019s reputation as a product design leader, the product virality inherent to Figma\u2019s collaborative and browser-based platform, and our integrated marketing efforts have successfully driven awareness and adoption. Over time, many of our users grow with us into larger, managed accounts that often include more seats and more products for users within their organizations.\nWhile our product-led, bottoms-up adoption contributes to our growth, our direct sales motion helps us serve larger customers. Our global sales and marketing teams work hand-in-hand with Figma\u2019s expanding network of\n2 The Content seat was announced in May 2025 and is not yet available. Figma Sites CMS is currently",
+              "score": 48,
+              "start_char": 35543,
+              "end_char": 37041,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p35543",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p353117",
+              "text": " is calculated as Adjusted Free Cash Flow divided by revenue.\nKey Components of Results of Operations\nRevenue\nWe generate revenue from sales of subscriptions to our platform. Our subscription agreements generally have monthly or annual contractual terms. Our agreements are generally non-cancelable and we typically invoice our customers in advance. At the end of each quarterly period of the contract, we invoice certain customers for additional seats added during the quarter, inclusive of amounts due for services delivered and amounts due for the remaining term of the subscription. We record deferred revenues when cash payments are received or due in advance of our performance, including amounts which are refundable and revenue is recognized ratably over the related contractual term.\nOur revenue is driven primarily by the number of paying customers and the price we charge for access to our platform, which varies based on the type of plan and products to which a customer subscribes.\n81\nTable of Contents\nCosts That May Impact Multiple Line Items\nEmployee-Related Costs and Overhead Allocation. Employee-related costs include salaries, bonuses, benefits, stock-based compensation, and related employer payroll taxes for cost of revenue and each operating expense category. Overhead costs represent shared costs that are not specific to a functional group and are allocated based on headcount. Such costs include costs associated with office facilities, workplace and IT-related personnel",
+              "score": 39,
+              "start_char": 353117,
+              "end_char": 354615,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p353117",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p423011",
+              "text": " revenue ratably over the contract term, beginning on the date that the platform is made available to the customer, because the customer receives and consumes the benefits of the platform throughout the contract period. The price of subscriptions is dependent on the number of seats and the subscription plan. The Company\u2019s contracts typically do not contain variable consideration given the price is fixed at contract inception.\nThe Company\u2019s subscription agreements generally have monthly or annual contractual terms. The Company typically invoices in advance for contracts, and payment terms and conditions vary by contract type although terms generally include a requirement of payment within 30 to 60 days of the invoice date. At the end of each monthly or quarterly period of the contract, the Company invoices customers for additional seats added during the respective month or quarter, inclusive of amounts due for services delivered and amounts due for the remaining term of the subscription. The Company records deferred revenue when cash payments are received or due in advance of its performance and revenue is recognized ratably over the related contractual term. The timing of revenue recognition may differ from the timing of invoicing customers, and these timing differences result in accounts receivables, contract assets, or deferred revenue on the consolidated balance sheets. Accounts receivable consists of amounts the Company has invoiced or for which it has an unconditional",
+              "score": 39,
+              "start_char": 423011,
+              "end_char": 424508,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p423011",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p180450",
+              "text": " customer satisfaction depends in part on the quality of our customer support. Failure to maintain high-quality customer support could have an adverse effect on our business, operating results, financial condition, and future prospects.\nWe believe that the successful use of our platform requires a high level of support and engagement for many of our customers. Increased demand for customer support, without corresponding increases in revenue, could increase our costs and adversely affect our business, operating results, financial condition, and future prospects.\nThere can be no assurance that we will be able to hire sufficient support personnel as and when needed, particularly if our sales exceed our internal forecasts. Additionally, our customer support team uses third-party AI tools to assist them with responding to and resolving customer inquiries. To the extent that we are unsuccessful in hiring, training, and retaining adequate support resources or utilizing AI tools for customer support, our ability to provide high-quality and timely support to our customers will be negatively impacted, and our customers\u2019 satisfaction and their usage of our infrastructure could be adversely affected.\nBecause we primarily recognize subscription revenue over the subscription term, downturns or upturns in new sales and renewals are not immediately reflected in full in our operating results.\nWe primarily derive revenue from sales of subscriptions for access to our platform, which is",
+              "score": 38,
+              "start_char": 180450,
+              "end_char": 181941,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p180450",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p421696",
+              "text": " transaction gains or losses were immaterial for all periods presented.\nFinancial information about segments and geographic areas\nThe Company manages its operations and allocated resources as a single operating segment. Further, the Company manages, monitors, and reports its financial information as a single reportable segment. See Note 17 \u201cSegment and Geographic Information\u201d for additional information.\nRevenue recognition\nThe Company primarily derives its revenue from sales of subscriptions for access to its platform. The Company\u2019s policy is to exclude sales and other indirect taxes when measuring the transaction price of its\n103\nTable of Contents\nFIGMA, INC.\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\n(Amounts in tables are in thousands except per share data, percentages, or as otherwise noted)\nsubscription agreements. The Company accounts for revenue contracts with customers by applying the requirements of Accounting Standards Codification (\u201cASC\u201d) 606, Revenue from Contracts with Customers.\nAccess to the platform represents a series of distinct services as the Company continually provides access to and fulfills its obligation to the customer over the subscription term. The series of distinct services represent a single performance obligation that is satisfied over time. The Company recognizes revenue ratably over the contract term, beginning on the date that the platform is made available to the customer, because the customer receives and consumes the benefits of the",
+              "score": 38,
+              "start_char": 421696,
+              "end_char": 423189,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p421696",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p125171",
+              "text": " the use of AI. While a number of U.S. states, such as California and Colorado, have proposed or enacted laws regarding automated decision\u2011making, algorithmic discrimination, and so-called \u201chigh\u2011risk\u201d AI technologies (mandating, among other provisions, requirements for risk management, impact assessments, consumer notices, and human oversight), which may impact our use of AI and AI-powered tools. However, the status of such laws is currently uncertain. Any such additional regulation may impact our ability to develop, use, and commercialize AI technologies in the future.\nIn Europe, the EU Artificial Intelligence Act (the \u201cEU AI Act\u201d) establishes a comprehensive, risk-based governance framework for AI in the EU market. The EU AI Act will have a material impact on the way AI is regulated in the EU, as it applies to companies that develop, use, and/or provide AI in the EU and, depending\n30\nTable of Contents\non the AI use case, includes requirements around transparency, conformity assessments and monitoring, risk assessments, human oversight, security, accuracy, general purpose AI, and foundation models, and imposes substantial fines for breaches. The EU AI Act, together with developing guidance and/or decisions in this area, may affect our use of AI technologies and our ability to provide, improve, or commercialize our services, require additional compliance measures and changes to our operations and processes, result in increased compliance costs and potential increases in",
+              "score": 36,
+              "start_char": 125171,
+              "end_char": 126665,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p125171",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p6574",
+              "text": "\u201d \u201cpotentially,\u201d \u201cestimate,\u201d \u201ccontinue,\u201d \u201canticipate,\u201d \u201cintend,\u201d \u201ccould,\u201d \u201cwould,\u201d \u201cproject,\u201d \u201ctarget,\u201d \u201cplan,\u201d \u201cexpect,\u201d \u201caspire,\u201d and similar expressions are intended to identify forward-looking statements.\nForward-looking statements contained in this Annual Report on Form 10-K include, but are not limited to, statements about:\n\u2022our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses, including changes in operating expenses, and our ability to achieve and maintain profitability;\n\u2022our business plan and our ability to effectively manage our growth;\n\u2022our total market opportunity;\n\u2022anticipated trends, growth rates, and challenges in our business and in the markets in which we operate;\n\u2022adoption of our platform;\n\u2022the impacts of artificial intelligence (\u201cAI\u201d) on our business;\n\u2022beliefs and objectives for future operations;\n\u2022our ability to attract new customers and successfully retain, and increase adoption of our platform and offerings by, existing customers;\n\u2022our ability to develop and introduce new products and bring them to market in a timely manner;\n\u2022our expectations concerning relationships with third parties;\n\u2022our expectations regarding changes in our pricing, packaging, or billing models;\n\u2022our ability to maintain, protect, and enhance our intellectual property rights;\n\u2022our ability to expand internationally;\n\u2022the effects of increased competition in our markets and our ability to",
+              "score": 33,
+              "start_char": 6574,
+              "end_char": 8070,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p6574",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p105411",
+              "text": ", delay or limit our ability to offer AI features, or require us to materially modify our products, business model, or operations. In addition, serious harms attributed to advanced AI systems, including widespread fraud, cyberattacks, misinformation, or other safety incidents, could increase litigation risk and reputational harm for companies offering AI-enabled products, even where such harms are caused by third parties or are outside our control. Any of the foregoing could adversely affect our business, operating results, and financial condition.\nWe face intense competition and could lose market share to our competitors, which would adversely affect our business, operating results, financial condition, and future prospects.\nThe markets in which we participate are rapidly evolving and highly competitive, and if we do not compete effectively, our business, operating results, and financial condition could be adversely impacted. We face competition from a number of companies, including companies that cater to multiple stages of the design and development process, point tools that address individual parts of the process but can expand to cover more, and design-to-code and AI-driven companies and tools that compress or accelerate steps in the workflow, take\n26\nTable of Contents\na different approach to building digital experiences, or automatically generate and iterate on designs and code through a prompt or with limited human input. We may also face competition from customized",
+              "score": 24,
+              "start_char": 105411,
+              "end_char": 106908,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p105411",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-009228-p55297",
+              "text": ". patent applications, are scheduled or likely to expire at dates ranging between 2034 and 2055, which may exclude any additional term for patent term adjustments or extensions. To protect our brand, as of December 31, 2025, we owned a trademark portfolio comprised of 103 registered trademarks and 98 trademark applications pending with filings in 62 countries, Hong Kong, and the European Union (\u201cEU\u201d). Finally, we have registered domain names for websites that we use or hold for use in our business, including our primary website www.figma.com.\n15\nTable of Contents\nRegulatory Matters\nWe are subject to the laws and regulations of various jurisdictions and governmental agencies affecting our operations and the sale of our platform in areas including, but not limited to: intellectual property; data privacy and security requirements; AI; tax; import and export controls; anti-bribery and corruption; economic and trade sanctions; national security and foreign investment; competition; advertising; employment; product regulations; and consumer laws. These laws and regulations are constantly evolving and may be interpreted, applied, created, or amended, in a manner that could harm our business. See the section titled \u201cRisk Factors\u201d for additional information regarding risks we face related to regulatory matters.\nCorporate Information\nWe were incorporated in the State of Delaware in October 2012. We completed our initial public offering (\u201cIPO\u201d) in August 2025 and our Class A common",
+              "score": 22,
+              "start_char": 55297,
+              "end_char": 56791,
+              "citation": {
+                "id": "0001579878-0001628280-26-009228-p55297",
+                "label": "Figma, Inc. \u00b7 10-K \u00b7 2026-02-18",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+                "company": "Figma, Inc.",
+                "form": "10-K",
+                "filed": "2026-02-18"
+              }
+            }
+          ]
+        },
+        {
+          "cik": "0001579878",
+          "accession": "0001628280-26-053348",
+          "document": "fig-20260630.htm",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "report_date": "2026-06-30",
+          "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+          "title": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+          "citation": {
+            "id": "0001579878-0001628280-26-053348",
+            "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+            "company": "Figma, Inc.",
+            "form": "10-Q",
+            "filed": "2026-08-05"
+          },
+          "passages": [
+            {
+              "id": "0001579878-0001628280-26-053348-p206763",
+              "text": " adversely affect our business, operating results, financial condition, and future prospects.\nAlthough we launched our initial product, Figma Design, in 2015, the markets for our products and services, and especially those recently introduced, such as FigJam in 2021, Dev Mode in 2023, Figma Slides in 2024, and Figma Sites, Figma Make, Figma Buzz, Figma Draw, and Figma Weave in 2025, as well as the generative AI and code-related capabilities integrated across our platform, including AI-powered design generation, agentic workflows, and native code layers, remain relatively new and unproven. Because the markets for our products and services are relatively new and rapidly evolving, it is difficult to predict customer adoption, customer and user demand for our products and services, the size and growth rate of these markets, the entry of competitive products and services, or the success of existing competitive services. It is also difficult to predict the impact of AI on our markets. Any expansion or contraction in our markets depends on a number of factors, including, but not limited to, the cost, performance, and perceived value associated with our platform and the appetite and ability of customers to pay for and subscribe to our platform. Further, even if the overall markets for the type of offerings we provide continue to grow, we face intense competition from larger and more well-established companies, as well as new entrants, and we may not be able to compete effectively,",
+              "score": 47,
+              "start_char": 206763,
+              "end_char": 208260,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p206763",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p152735",
+              "text": " have a limited operating history at our current scale, which makes it difficult to evaluate our current business and future prospects and increases the risks associated with your investment.\nAlthough we were founded in October 2012, we have evolved our business and platform significantly since publicly launching our initial product, Figma Design, in 2015, including through the introduction of new offerings. For example, we introduced FigJam in 2021, Dev Mode in 2023, Figma Slides in 2024, Figma Sites, Figma Make, Figma Buzz, Figma Draw, and Figma Weave in 2025. Over the last few years we have integrated generative AI and code-related capabilities across our platform, including through AI-powered design generation, agentic workflows, and native code layers. In addition, in March 2025, we implemented significant changes to our pricing, packaging, and billing models. In 2025, we introduced AI credits across all Figma seats. Starting in March 2026, we began enforcing AI credit limits and introduced flexible options for incremental usage, including monthly AI credit add\u2011ons to existing subscriptions or usage billed under a pay\u2011as\u2011you\u2011go model. Accordingly, we have a limited operating history at our current scale of business, and with our current product offerings and pricing, packaging, and billing models, which makes it difficult to evaluate our current business, future prospects, and other trends. For example, we have experienced periods of expansion in our Net Dollar",
+              "score": 46,
+              "start_char": 152735,
+              "end_char": 154225,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p152735",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p183055",
+              "text": " significant revenue. If we are unable to successfully develop new products, enhance our existing products to meet customer requirements, or otherwise achieve market adoption, our business, operating results, and financial condition would be harmed.\nWe have made significant investments to develop, launch, and enhance new products and services, such as FigJam in 2021, Dev Mode in 2023, Figma Slides in 2024, and Figma Sites, Figma Make, Figma Buzz, Figma Draw, and Figma Weave in 2025, and to integrate generative AI and code-related capabilities across our platform, including through AI-powered design generation, agentic workflows, and native code layers. We intend to continue investing significant resources to develop and launch new products, services, features, and functionality, including enhancements to our platform\u2019s accessibility. If we do not allocate these resources efficiently, effectively, or in an otherwise commercially successful manner, we may not realize the expected benefits of our strategy. There can be no assurance that customer demand for such initiatives will exist or be sustained at the levels that we anticipate, or that any of these initiatives will gain sufficient traction or market adoption to generate sufficient revenue to offset any new expenses or liabilities associated with these new investments. For example, we have offered, and expect to continue offering, certain new products and features in beta form, in some cases at no charge to our customers.",
+              "score": 45,
+              "start_char": 183055,
+              "end_char": 184552,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p183055",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p79010",
+              "text": " of the uncertainties, risks, and assumptions associated with these statements.\nOverview\nFigma is where teams come together to turn ideas into the world\u2019s best digital products and experiences. We launched Figma Design in 2015 using WebGL technology to bring design into the browser for the first time, making it easier and more efficient for designers to work alongside developers, product managers, researchers, and other participants in the product development process. Since then, we have added products and features to support the process of going from idea to product.\nIn 2021, we launched our second product: FigJam, an online whiteboarding tool. Then, in 2023 we launched Dev Mode, a product tailored for developers. In 2024, we introduced Figma Slides to give teams a new tool to drive strategy and alignment along the way.\nIn 2025, we doubled our product portfolio with the launch of four new products: Figma Make, Figma Sites, Figma Buzz, and Figma Draw. Figma Make lets users go directly from prompt to working prototype, at which point they can immediately validate an idea and choose to iterate on it. Users can improve the design of their product via further prompting, editing code directly, or through visual manipulation. Figma Sites is a product that lets you design a website and directly publish it to the web, with a URL of your choice. Figma Buzz is a product for easily creating marketing assets, like social media assets and digital ads, at scale. Figma Draw provides a",
+              "score": 36,
+              "start_char": 79010,
+              "end_char": 80504,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p79010",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p277892",
+              "text": "as and when needed, particularly if our sales exceed our internal forecasts. Additionally, our customer support team uses third-party AI tools to assist them with responding to and resolving customer inquiries. To the extent that we are unsuccessful in hiring, training, and retaining adequate support resources or utilizing AI tools for customer support, our ability to provide high-quality and timely support to our customers will be negatively impacted, and our customers\u2019 satisfaction and their usage of our infrastructure could be adversely affected.\n86\nBecause we primarily recognize subscription revenue over the subscription term, downturns or upturns in new sales and renewals are not immediately reflected in full in our operating results.\nWe primarily derive revenue from sales of subscriptions for access to our platform, which is typically recognized on a ratable basis over the term of the contract subscription period beginning on the date access to our platform is granted, provided all other revenue recognition criteria have been met. Our subscription arrangements generally have monthly or annual contractual terms. As a result, much of the revenue we report each quarter is the recognition of deferred revenue from recurring subscriptions. Consequently, a decline in subscriptions in any one quarter, whether as a result of fewer or smaller new subscriptions, downsized subscription renewals, or lower subscription renewal rates in the applicable quarter, will not be fully",
+              "score": 40,
+              "start_char": 277892,
+              "end_char": 279385,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p277892",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p82952",
+              "text": " other similarly titled metrics used by other companies, securities analysts, or investors.\nAs of\nJune 30,\n2026 June 30,\n2025\nPaid Customers with more than $10,000 in ARR 15,964 11,906\nPaid Customers with more than $100,000 in ARR 1,635 1,119\nNet Dollar Retention Rate 136 % 129 %\nWe define a Paid Customer as a customer account that is billed separately for which we have an active paid subscription as of the last day of the applicable period of measurement.1 A single organization with multiple divisions, segments, subsidiaries, or subscribing teams that are each billed separately are counted as multiple Paid Customers.\nWe calculate annual recurring revenue (\u201cARR\u201d) as the annualized value of our active customer agreements as of the measurement date, assuming any agreement that expires during the next twelve months following the measurement date is renewed on existing terms.2 ARR is not a forecast of future revenue, which can be impacted by contract start and end dates and renewal rates.\nPaid Customers with more than $10,000 in ARR\nWe believe that the number of Paid Customers with more than $10,000 in ARR on our platform is an important indication of the value that our products deliver. We define a Paid Customer with more than\n(1) A customer account is considered active when seats are provisioned to the customer at the start of their subscription. In cases where contracts are signed but not provisioned as of the last date of the applicable period of measurement, the customer",
+              "score": 38,
+              "start_char": 82952,
+              "end_char": 84448,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p82952",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p92181",
+              "text": " costs (995) (718) (1,883) (2,439)\nFree Cash Flow $ 53,210 $ 60,603 $ 141,818 $ 155,185\nNet cash provided by (used in) investing activities\n$ (6,251) $ (74,826) $ (13,700) $ (33,575)\nNet cash provided by (used in) financing activities\n$ (13,719) $ 15,445 $ (101,255) $ 15,784\nOperating Cash Flow Margin(2)\n16 % 25 % 22 % 33 %\nFree Cash Flow Margin(3)\n14 % 24 % 20 % 33 %\n__________________\n(1)Net cash provided by operating activities for the six months ended June 30, 2026 includes the impact of a $56.1 million payment under our annual corporate bonus program, accrued during the year ended December 31, 2025, with no comparable payment in the prior year period.\n(2)Operating Cash Flow Margin is calculated as net cash provided by operating activities divided by revenue.\n(3)Free Cash Flow Margin is a non-GAAP financial measure that is calculated as Free Cash Flow divided by revenue.\nKey Components of Results of Operations\nRevenue\nWe primarily generate revenue from sales of subscriptions to our platform. Our subscription agreements generally have monthly or annual contractual terms. Our agreements are generally non-cancelable and we typically invoice our customers in advance. At the end of each monthly or quarterly period of the contract, we invoice customers for additional purchases made during the respective month or quarter, inclusive of amounts due for services delivered and amounts due for the remaining term of the subscription. We record deferred revenues when cash payments are",
+              "score": 38,
+              "start_char": 92181,
+              "end_char": 93680,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p92181",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p279211",
+              "text": ", whether as a result of fewer or smaller new subscriptions, downsized subscription renewals, or lower subscription renewal rates in the applicable quarter, will not be fully reflected in revenue in that quarter, and will continue to negatively affect our revenue in future quarters. Accordingly, the effect of significant downturns in new or renewed sales of our recurring subscriptions is not reflected in full in our operating results until future periods.\nOver time, we may continue to introduce new products and services, or implement new billing models, the revenue for which may be recognized differently than on a ratable basis. We may have reduced visibility into the timing of recognition for such revenue, and may experience volatility in the revenue we recognize from such products and services or under such billing models period-over-period, which may make it more difficult for us to accurately plan and forecast our operating results.\nWe make our platform available to users free of charge on our Starter plan. If this fails to lead to customers purchasing paid subscriptions, our business, operating results, and financial condition may be adversely affected.\nWe offer our Starter plan (our free plan), which gives users limited access to our platform. This may not lead to customers purchasing subscriptions to our platform, as usage of our Starter plan may not lead to them or their organization purchasing subscriptions to our platform. To the extent that users do not become",
+              "score": 38,
+              "start_char": 279211,
+              "end_char": 280706,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p279211",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p218625",
+              "text": " AI legislation, a growing number of states have proposed or enacted laws regarding automated decision\u2011making, algorithmic discrimination, use of AI in employment contexts, and so-called \u201chigh\u2011risk\u201d AI technologies, which may impact our use of AI and AI-powered tools. However, the status of such laws is currently uncertain as the federal government takes steps towards establishing broad federal AI regulation that could preempt all or some state law. Any such additional regulation may impact our ability to develop, use, and commercialize AI technologies in the future.\nIn Europe, the EU Artificial Intelligence Act (the \u201cEU AI Act\u201d) establishes a comprehensive, risk-based governance framework for AI in the EU market. Once fully implemented, the EU AI Act will have a material impact on the way AI is regulated in the EU, as it applies to companies that develop, use, and/or provide AI in the EU and, depending on the AI use case, includes requirements around transparency, conformity assessments and monitoring, risk assessments, human oversight, security, accuracy, general purpose AI, and foundation models, and imposes substantial fines for breaches. The EU AI Act, together\n72\nwith developing guidance and/or decisions in this area, may affect our use of AI technologies and our ability to provide, improve, or commercialize our services, require additional compliance measures and changes to our operations and processes, result in increased compliance costs and potential increases in",
+              "score": 35,
+              "start_char": 218625,
+              "end_char": 220122,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p218625",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p3935",
+              "text": " detailed discussion of risks and uncertainties included in the section titled \u201cRisk Factors\u201d contained within this Quarterly Report on Form 10-Q.\n\u2022We have experienced rapid growth which may not be indicative of our future growth, and if we do not effectively manage our future growth, our business, operating results, financial condition, and future prospects may be adversely affected. Our rapid growth also makes it difficult to evaluate future prospects.\n\u2022Our operating results may fluctuate significantly, which could make our future results difficult to predict and could cause our operating results in any given period to fall below expectations.\n\u2022We have a limited operating history at our current scale, which makes it difficult to evaluate our current business and future prospects and increases the risks associated with your investment.\n\u2022Changes in our pricing, packaging, or billing models could adversely affect our business, operating results, financial condition, and future prospects.\n\u2022Third-party artificial intelligence (\u201cAI\u201d) agents and tools that operate on or through our platform may circumvent our pricing and packaging models, increase our costs, and adversely affect our business, operating results, financial condition, and future prospects.\n\u2022If we are unable to accurately measure, attribute, and bill for usage under credit-based, usage-based, or outcome-based billing models, or to provide sufficient transparency and controls over such usage, our business, operating",
+              "score": 33,
+              "start_char": 3935,
+              "end_char": 5432,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p3935",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p197548",
+              "text": " budget for design and product development, and increase volatility in customer spending. It could also prompt governments to adopt emergency measures or sweeping new regulations, restrictions, or moratoria on the development, deployment, or use of advanced AI systems, or to regulate access to compute, chips, energy, or cloud infrastructure, any of which could increase our costs, delay or limit our ability to offer AI features, or require us to materially modify our products, business model, or operations. In addition, serious harms attributed to advanced AI systems, including\n67\nwidespread fraud, cyberattacks, misinformation, automated reconnaissance, or other safety incidents, could increase litigation risk and reputational harm for companies offering AI-enabled products, even where such harms are caused by third parties or are outside our control. Any of the foregoing could adversely affect our business, operating results, and financial condition.\nWe face intense competition and could lose market share to our competitors, which would adversely affect our business, operating results, financial condition, and future prospects.\nThe markets in which we participate are rapidly evolving and highly competitive, and if we do not compete effectively, our business, operating results, and financial condition could be adversely impacted. We face competition from a number of companies, including companies that cater to multiple stages of the design and development process, point tools",
+              "score": 23,
+              "start_char": 197548,
+              "end_char": 199047,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p197548",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            },
+            {
+              "id": "0001579878-0001628280-26-053348-p291075",
+              "text": "team. While we seek to manage any such transitions carefully, such changes may result in a loss of institutional knowledge, cause disruptions to our business, and negatively affect our business.\nCompetition for highly skilled personnel is intense, especially in markets such as the San Francisco Bay Area, London, and New York City where we have a substantial presence and need for highly skilled personnel, and we may not be successful in hiring or retaining qualified personnel to fulfill our current or future needs. More generally, the technology industry, and the software industry more specifically, is also subject to substantial and continuous competition for engineers with high levels of experience in designing, developing, and managing software and related services. This is especially true in the market for AI talent, which remains extremely competitive. We have, from time to time, experienced, and we expect to continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications at a suitable cost, and this risk may be exacerbated by factors related to, among other things, increased recruiting efforts by other companies and volatility in the price of our Class A common stock. We have in the past used, and expect to continue to use, stock-based compensation to recruit and retain qualified employees. If we were to decrease the amount of stock-based compensation that is granted to employees, or otherwise make changes to our",
+              "score": 23,
+              "start_char": 291075,
+              "end_char": 292568,
+              "citation": {
+                "id": "0001579878-0001628280-26-053348-p291075",
+                "label": "Figma, Inc. \u00b7 10-Q \u00b7 2026-08-05",
+                "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+                "company": "Figma, Inc.",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "provenance": [
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/files/company_tickers.json",
+      "retrieved_at": "2026-10-01T01:08:43.648980+00:00",
+      "sha256": "a1d4b030a746f83f68852c2d081aad7e9468529d9e5b1eda9c93489e967ed405",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://data.sec.gov/submissions/CIK0000320193.json",
+      "retrieved_at": "2026-10-01T01:08:44.092316+00:00",
+      "sha256": "55642728b6b1a783ddf393769ffd5d4b8493a3010aa3395367c43d7c294ed86b",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "retrieved_at": "2026-10-01T01:08:44.559984+00:00",
+      "sha256": "d9bab6463ef12bed3f7dd4c5d101ed6658df996424614a5e495e9e30a1befa03",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "retrieved_at": "2026-10-01T01:08:45.094593+00:00",
+      "sha256": "cd90bc553e6291c6fa501bff0c4c36c731e5ef2a3a1bcba6042362e42dc60bb8",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+      "retrieved_at": "2026-10-01T01:08:45.574182+00:00",
+      "sha256": "bc7a33470ad8763bd091c06c4c4280beef2bb8b8162a6b35b0255e9a9aae857e",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://data.sec.gov/submissions/CIK0001579878.json",
+      "retrieved_at": "2026-10-01T01:08:46.101533+00:00",
+      "sha256": "4cfae4bd28ef67e70408947f4d35c7be7f09f95281b6ec2d3779743e46d80b37",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm",
+      "retrieved_at": "2026-10-01T01:08:46.759534+00:00",
+      "sha256": "9d97f56a150a5fee90ae523231fb90046c40f31e7710da671f7e5972b7527dcf",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm",
+      "retrieved_at": "2026-10-01T01:08:50.420520+00:00",
+      "sha256": "e71e627493bb63bd1c6c2c18392c8754161cf3299de984740748ba30470c5bf7",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/fig-20260630.htm",
+      "retrieved_at": "2026-10-01T01:08:51.336770+00:00",
+      "sha256": "a2ea4725c9622ceb15231b2b9a50e64370b25c408bdcc50231f6e5d463322ac8",
+      "cache_hit": false
+    },
+    {
+      "source": "SEC EDGAR",
+      "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json",
+      "retrieved_at": "2026-10-01T01:08:52.112206+00:00",
+      "sha256": "4495f7a16b4ade43dfa8041ac6477074122cbd5b88033e3e0f68b3f919e7ffbf",
+      "cache_hit": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[project]
+name = "chat-with-edgar"
+version = "0.1.0"
+description = "SEC filing research with explicitly authorized ChatGPT plan usage"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi", "uvicorn", "httpx", "PyJWT[crypto]", "pydantic-ai-slim", "openai-agents", "jsonschema"
+]
+
+[dependency-groups]
+dev = ["pytest", "pytest-asyncio", "ruff"]
+
+[tool.uv]
+exclude-newer = "2026-09-23T00:00:00Z"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]

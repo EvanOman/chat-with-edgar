@@ -1,0 +1,14 @@
+.mission/
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.runtime/
+*.pyc
+# Local mission brief/progress contain workstation-specific context.
+GOAL.md
+PROGRESS.md

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore real SEC filings and compare three approaches to grounded, visitor-funded AI research. Hosted ChatGPT inference is awaiting access approval.">
+  <meta name="referrer" content="no-referrer">
+  <title>Chat with EDGAR — Read the record</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+  <script type="module" src="./assets/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#research">Skip to research desk</a>
+  <header class="site-header shell">
+    <a class="brand" href="./" aria-label="Chat with EDGAR home"><span class="brand-mark" aria-hidden="true">E.</span><span>EDGAR<span class="brand-sub">THE PUBLIC RECORD</span></span></a>
+    <nav aria-label="Project navigation"><a href="https://github.com/EvanOman/chat-with-edgar">Source <span aria-hidden="true">↗</span></a><a href="https://evanoman.com/">Evan Oman <span aria-hidden="true">↗</span></a></nav>
+  </header>
+  <main class="shell">
+    <section class="masthead" aria-labelledby="page-title">
+      <div><p class="eyebrow">An open research desk / SEC filings</p><h1 id="page-title">Chat with <em>EDGAR.</em></h1><p class="intro" id="intro">Start with the filing. Follow the evidence.<br>Explore excerpts while hosted chat awaits approval.</p></div>
+      <div class="masthead-note"><span class="edition">EXPERIMENT Nº 01</span><p>Three agent implementations.<br>One set of sources.<br>A clear view of what ran.</p><a href="#comparison" id="compare-link">Inside the experiment <span aria-hidden="true">↗</span></a></div>
+    </section>
+    <section class="access-strip" aria-labelledby="access-title"><span class="status-dot" aria-hidden="true"></span><div><h2 id="access-title">Checking access…</h2><p id="access-description">Filing research does not require an account.</p></div><button id="sign-in" class="button dark" hidden>Continue with ChatGPT <span aria-hidden="true">↗</span></button><button id="sign-out" class="button quiet" hidden>Sign out</button></section>
+    <div id="global-notice" class="notice" role="status" hidden></div>
+    <div id="research" class="workspace">
+      <aside class="filing-cabinet" aria-labelledby="cabinet-title">
+        <div class="section-label"><span>01 / THE SOURCES</span><span id="source-mode">SEC EDGAR</span></div>
+        <h2 id="cabinet-title">Filing cabinet</h2>
+        <form id="company-search" class="search-form"><label class="sr-only" for="company-query">Company name, ticker, or CIK</label><input id="company-query" type="search" placeholder="Company or ticker" maxlength="100" autocomplete="off"><button aria-label="Search companies" type="submit">↗</button></form>
+        <div id="companies" class="company-list" aria-label="Companies"><p class="muted">Loading public filings…</p></div>
+        <div class="filing-filters"><label for="form-filter">Filing type</label><select id="form-filter"><option value="">All filings</option><option value="10-K">10-K · Annual</option><option value="10-Q">10-Q · Quarterly</option><option value="S-1">S-1 · Registration</option><option value="8-K">8-K · Current</option></select></div>
+        <div id="filings" class="filing-list" aria-live="polite"></div>
+        <p class="cabinet-note" id="coverage-note">Source coverage will appear when filings load.</p>
+      </aside>
+      <section class="research-panel" aria-label="Research workspace">
+        <div class="workspace-tabs" role="tablist" aria-label="Workspace views">
+          <button id="reader-tab" role="tab" aria-selected="true" aria-controls="reader" data-tab="reader">Read the filing</button>
+          <button id="chat-tab" role="tab" aria-selected="false" aria-controls="chat" tabindex="-1" data-tab="chat">Ask EDGAR <span class="tab-dot" aria-hidden="true"></span></button>
+          <button id="comparison-tab" role="tab" aria-selected="false" aria-controls="comparison" tabindex="-1" data-tab="comparison">Compare</button>
+        </div>
+        <section id="reader" role="tabpanel" aria-labelledby="reader-tab" class="reader panel-content">
+          <div class="section-label"><span>02 / THE RECORD</span><span id="filing-date">PRIMARY SOURCE</span></div>
+          <div id="reader-heading"><h2>The answer starts here.</h2><p class="muted">Choose a company and filing to inspect the source material.</p></div>
+          <form id="passage-search" class="passage-search" hidden><label for="passage-query">Find within this filing</label><div class="search-form"><input id="passage-query" type="search" placeholder="Revenue, risk factors, competition…" maxlength="250"><button type="submit" aria-label="Find passages">↗</button></div></form>
+          <div id="passages" aria-live="polite"></div>
+        </section>
+        <section id="chat" role="tabpanel" aria-labelledby="chat-tab" class="panel-content" hidden>
+          <div class="section-label"><span>02 / THE QUESTION</span><span>GROUNDED IN FILINGS</span></div>
+          <h2>Ask. Inspect. Follow the source.</h2><p class="muted">Each implementation uses the same SEC retrieval tools. Answers appear only after a real model request.</p>
+          <div id="chat-gate" class="chat-gate"><strong>Chat is not available yet.</strong><p>The access check above explains what is needed. You can still explore the original filings.</p><a href="https://github.com/EvanOman/chat-with-edgar#local-setup">Local setup and access details ↗</a></div>
+          <div class="account-controls" id="account-controls" hidden><label for="registration">Your app registrations<select id="registration"></select></label><button id="add-account" class="button quiet">Add account</button><button id="reconnect" class="button quiet">Reconnect</button><button id="enable-plan" class="button quiet" hidden>Enable plan usage</button></div>
+          <form id="chat-form">
+            <div class="model-controls"><label for="adapter">Implementation<select id="adapter"><option value="direct">Direct Responses loop</option><option value="pydantic-ai">Pydantic AI</option><option value="openai-agents">OpenAI Agents SDK</option></select></label><label for="model">Model<select id="model" disabled><option>Sign in to load eligible models</option></select></label></div>
+            <p id="adapter-note" class="adapter-note">A small application-owned tool loop over the Responses API.</p>
+            <label class="sr-only" for="question">Your question about SEC filings</label><textarea id="question" rows="3" maxlength="6000" placeholder="What does this company say about its main risks?" disabled></textarea>
+            <div class="composer-bottom"><span id="conversation-note">Your own plan · No operator-funded fallback</span><div><button id="new-chat" type="button" class="button quiet">New chat</button><button id="stop-chat" type="button" class="button quiet" hidden>Stop</button><button id="send" class="button dark" type="submit" disabled>Ask EDGAR <span aria-hidden="true">↗</span></button></div></div>
+          </form>
+          <div id="thread" class="thread" aria-live="polite" aria-relevant="additions text"></div>
+        </section>
+        <section id="comparison" role="tabpanel" aria-labelledby="comparison-tab" class="panel-content" hidden>
+          <div class="section-label"><span>02 / THE EXPERIMENT</span><span>SHARED CONTRACT</span></div>
+          <h2>Same question.<br>Different orchestration.</h2><p class="muted">The retrieval tools, filing citations, conversation contract, and request restrictions are shared. Switch implementations in Ask EDGAR to compare their behavior.</p>
+          <div class="comparison-table-wrap"><table class="comparison-table"><thead><tr><th scope="col">Implementation</th><th scope="col">What changes</th></tr></thead><tbody><tr><th scope="row">Direct Responses loop<span>Minimal baseline</span></th><td>Application owns the tool loop, wire requests, and conversation history.</td></tr><tr><th scope="row">Pydantic AI<span>Typed agent framework</span></th><td>Pydantic AI orchestrates tools through an adapter for the plan-usage transport.</td></tr><tr><th scope="row">OpenAI Agents SDK<span>Official SDK</span></th><td>The SDK runs the agent with an adapted model transport. This is not the hosted Agents API.</td></tr></tbody></table></div>
+          <div class="comparison-note"><h3>What the numbers mean</h3><p>Completed runs show elapsed time, tool calls, and token usage when the provider reports it. Plan allowance is not a dollar price. No cost is inferred from a quota.</p><p id="comparison-evidence">No inference has run in this browser session. Access to this public site's hosted inference remains unapproved.</p></div>
+          <div id="run-results"></div>
+          <a class="text-link" href="https://github.com/EvanOman/chat-with-edgar">Read the architecture, tests, and current limitations ↗</a>
+        </section>
+      </section>
+    </div>
+    <section class="method-note"><span class="eyebrow">A NOTE ON THE RECORD</span><p>Filings are evidence, not instructions. Follow the linked SEC document to verify a passage in context. This prototype has a bounded source collection; a missing result does not mean a company made no disclosure.</p></section>
+  </main>
+  <footer class="site-footer shell"><span>Built by <a href="https://evanoman.com/">Evan Oman</a></span><span>Public filings. Traceable answers.</span><a href="https://www.sec.gov/edgar/search/">SEC EDGAR ↗</a></footer>
+</body>
+</html>
