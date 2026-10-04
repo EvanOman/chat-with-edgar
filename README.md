@@ -4,10 +4,12 @@ Explore primary SEC filings and ask grounded questions using your own authorized
 ChatGPT plan. Compare Pydantic AI, the OpenAI Agents SDK, and a direct Responses
 loop using the same retrieval tools, instructions, model and conversation contract.
 
-**Prototype status:** the local application has 166 passing contract tests and real SEC
-retrieval has been browser-tested. See [verification evidence](docs/evidence.md). Public-site ChatGPT inference is gated on OpenAI hosted plan-usage
-approval. No real inference result is claimed until app-specific consent and a
-completed provider stream are recorded. There is no operator-funded fallback.
+**Prototype status:** the [public filing reader](https://evanoman.com/chat-with-edgar/)
+is deployed, with real SEC sources and browser verification. The local app
+implements all three agent adapters and app-specific OAuth. See
+[verification evidence](docs/evidence.md). Public-site ChatGPT inference is gated
+on OpenAI hosted plan-usage approval. No real inference result is claimed until
+app-specific consent and a completed provider stream are recorded. There is no operator-funded fallback.
 
 ## Run locally
 

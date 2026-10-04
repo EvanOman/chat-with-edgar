@@ -12,3 +12,4 @@ __pycache__/
 # Local mission brief/progress contain workstation-specific context.
 GOAL.md
 PROGRESS.md
+.worktrees/

@@ -77,7 +77,7 @@ function renderStatus() {
     $('access-description').textContent = status?.gate?.message || 'Explore real SEC filings now. Hosted sign-in and plan-funded answers require separate OpenAI access approval.';
   }
   const gateTitle = authenticated ? 'Your account has not authorized plan usage.' : hosted ? 'Hosted ChatGPT access is awaiting approval.' : 'Connect your ChatGPT account to ask a question.';
-  $('chat-gate').replaceChildren(node('strong', {}, gateTitle), node('p', {}, hosted ? 'The public filing explorer is available. This site cannot run inference until its hosted integration is approved. The documented local app is a separate deployment and requires your consent.' : 'This local application uses your own eligible plan allowance. It will stop when authorization or allowance is unavailable.'), node('a', { href: 'https://github.com/EvanOman/chat-with-edgar#local-setup' }, 'Local setup and current access details ↗'));
+  $('chat-gate').replaceChildren(node('strong', {}, gateTitle), node('p', {}, hosted ? 'The public filing explorer is available. This site cannot run inference until its hosted integration is approved. The documented local app is a separate deployment and requires your consent.' : 'This local application uses your own eligible plan allowance. It will stop when authorization or allowance is unavailable.'), node('a', { href: 'https://github.com/EvanOman/chat-with-edgar#run-locally' }, 'Local setup and current access details ↗'));
   $('source-mode').textContent = hosted ? 'PUBLIC SNAPSHOT' : 'SEC EDGAR';
   document.getElementById('usage-link')?.remove();
   if (authenticated && status.usage_url === 'https://chatgpt.com/settings/usage') {

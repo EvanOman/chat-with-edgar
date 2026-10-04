@@ -8,5 +8,6 @@ run:
 smoke-retrieval:
     uv run python scripts/smoke_retrieval.py
 
-# Requires the user to complete app-specific consent in the local browser first.
-# Select each adapter in the UI and record only non-sensitive evidence.
+# Requires app-specific consent in this existing browser. At most six user turns.
+verify-live session model:
+    uv run python scripts/verify_live.py --session {{quote(session)}} --model {{quote(model)}}
