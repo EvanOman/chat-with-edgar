@@ -2,7 +2,7 @@
 
 ## Current access boundary
 
-OpenAI's September 30, 2026 documentation describes dynamic registration for
+OpenAI's documentation, rechecked October 3, 2026, describes dynamic registration for
 local/open-source clients. Remotely hosted applications are directed to the
 interest form; website identity sign-in is a limited partner trial. The installed
 personal-site environment and GitHub secret names did not contain an approved
@@ -12,6 +12,7 @@ a claim about every entitlement its owner might have.
 Sources:
 
 - https://developers.openai.com/siwc/token-sharing-open-source
+- https://developers.openai.com/cookbook/articles/sign-in-with-chatgpt#usage-policy-and-terms
 - https://developers.openai.com/siwc/website
 - https://developers.openai.com/siwc/request-client-id
 - https://developers.openai.com/siwc/token-sharing-open-source/self-hosted-vms

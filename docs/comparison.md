@@ -142,3 +142,14 @@ dollar estimate is claimed here. Token counts are not a conversion into ChatGPT
 plan credits or a monetary bill. Add real comparison observations only after
 authorized app consent and successful provider completion, keeping that evidence
 separate from this contract suite.
+
+## Why not Codex app-server as the third baseline
+
+OpenAI also documents [Codex app-server with a plan-usage OAuth bearer](https://developers.openai.com/siwc/token-sharing-open-source/codex-app-server).
+It provides a local orchestration process with thread history. The documented
+configuration uses stdio and HTTP/SSE; the application owns token renewal and must
+restart app-server with the refreshed credential before resuming the thread.
+It is a viable separate local comparison, but adds process lifecycle and a broader
+tool configuration to this small read-only filing app. The direct loop is the
+smaller baseline for measuring the two library runners against the same wire
+contract. No app-server inference or hosted eligibility is claimed here.
