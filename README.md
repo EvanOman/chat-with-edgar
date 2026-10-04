@@ -43,6 +43,9 @@ and is cleared for the browser on account switches/sign-out and server restart.
 
 ## Verify
 
+The verification suite also requires Node.js 22+ to exercise the acceptance
+runner’s browser JavaScript against offline fixtures. The app itself runs in Python.
+
 ```sh
 uv run ruff check edgar tests
 uv run pytest -q

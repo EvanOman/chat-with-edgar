@@ -35,7 +35,7 @@ Token counts are not monetary cost or remaining plan quota.
 After completing app-specific sign-in and enabling ChatGPT plan usage, leave that
 browser on `http://127.0.0.1:19371/chat-with-edgar/`. Select an eligible model in
 the app. Run the server and runner from the same installed checkout so the
-recorded SDK versions describe the service under test. For an existing
+recorded SDK versions describe the service under test. The CLI requires `agent-browser` to be installed. For an existing
 `agent-browser` session:
 
 ```sh
@@ -56,6 +56,7 @@ If the user signed in through another supported browser automation surface,
 generate exactly the same browser script without running inference:
 
 ```sh
+mkdir -p .mission
 uv run python scripts/verify_live.py --model ELIGIBLE_SLUG --emit-script \
   > .mission/run-live.js
 ```
